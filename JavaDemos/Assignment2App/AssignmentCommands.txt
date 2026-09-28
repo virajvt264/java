@@ -1,0 +1,1000 @@
+ 1122  vi arrayelements.c
+ 1123  gcc arrayelements.c -o arrayelements
+ 1124  ./arrayelements 
+ 1125  vi sumarrayelements.c
+ 1126  gcc sumarrayelements.c -o sumarrayelements
+ 1127  vi sumarrayelements.c
+ 1128  gcc sumarrayelements.c -o sumarrayelements
+ 1129  ./sumarrayelements 
+ 1130  vi reversingarray.c
+ 1131  gcc reversingarray.c -o reversingarray
+ 1132  ./reversingarray
+ 1133  vi reversingarray.c
+ 1134  gcc reversingarray.c -o reversingarray
+ 1135  ./reversingarray
+ 1136  vi reversingarray.c
+ 1137  gcc reversingarray.c -o reversingarray
+ 1138  ./reversingarray
+ 1139  vi reversingarray.c
+ 1140  gcc reversingarray.c -o reversingarray
+ 1141  ./reversingarray
+ 1142  vi reversingarray.c
+ 1143  gcc reversingarray.c -o reversingarray
+ 1144  ./reversingarray
+ 1145  vi reversingarray.c
+ 1146  gcc reversingarray.c -o reversingarray
+ 1147  ./reversingarray
+ 1148  vi reversingarray.c
+ 1149  gcc reversingarray.c -o reversingarray
+ 1150  ./reversingarray
+ 1151  vi reversingarray.c
+ 1152  gcc reversingarray.c -o reversingarray
+ 1153  ./reversingarray
+ 1154  vi reversingarray.c
+ 1155  gcc reversingarray.c -o reversingarray
+ 1156  ./reversingarray
+ 1157  vi reversingarray.c
+ 1158  gcc reversingarray.c -o reversingarray
+ 1159  ./reversingarray
+ 1160  vi reversingarray.c
+ 1161  gcc reversingarray.c -o reversingarray
+ 1162  ./reversingarray
+ 1163  vi reversingarray.c
+ 1164  vi struct1.c
+ 1165  gcc struct1.c -o struct1
+ 1166  vi struct1.c
+ 1167  gcc struct1.c -o struct1
+ 1168  ./struct1
+ 1169  ls
+ 1170  vi struct1.c
+ 1171  gcc struct1.c -o struct1
+ 1172  vi struct1.c
+ 1173  gcc struct1.c -o struct1
+ 1174  vi struct1.c
+ 1175  gcc struct1.c -o struct1
+ 1176  vi struct1.c
+ 1177  gcc struct1.c -o struct1
+ 1178  vi struct1.c
+ 1179  gcc struct1.c -o struct1
+ 1180  vi struct1.c
+ 1181  gcc struct1.c -o struct1
+ 1182  ./struct1
+ 1183  clear
+ 1184  ./struct1
+ 1185  vi stuctnested.c
+ 1186  vi struct1.c
+ 1187  vi stuctnested.c
+ 1188  gcc stuctnested.c -o stuctnested
+ 1189  ./stuctnested
+ 1190  vi unions.c
+ 1191  gcc unions.c -o unions
+ 1192  ./unions
+ 1193  clear
+ 1194  ./unions
+ 1195  ls
+ 1196  clear
+ 1197  vi union1.c
+ 1198  gcc union1.c -o union1
+ 1199  ./union1
+ 1200  vi union1.c
+ 1201  gcc union1.c -o union1
+ 1202  ./union1
+ 1203  vi union1.c
+ 1204  gcc union1.c -o union1
+ 1205  vi union1.c
+ 1206  gcc union1.c -o union1
+ 1207  ./union1
+ 1208  vi union1.c
+ 1209  gcc union1.c -o union1
+ 1210  ./union1
+ 1211  vi union1.c
+ 1212  gcc union1.c -o union1
+ 1213  ./union1
+ 1214  vi SizeofStructUni.c
+ 1215  gcc SizeofStructUni.c -o SizeofStructUni
+ 1216  ./SizeofStructUni
+ 1217  cd ..
+ 1218  ll
+ 1219  cd ..
+ 1220  ls
+ 1221  cd DAC0826
+ 1222  ls
+ 1223  clear
+ 1224  mkdir Nilesh
+ 1225  cd Nilesh
+ 1226  ls
+ 1227  mkdir basics
+ 1228  cd basics
+ 1229  vi arraydemo.c
+ 1230  cc arraydemo.c
+ 1231  ls
+ 1232  ./a.out
+ 1233  vi arraydemo.c
+ 1234  clear
+ 1235  cc arraydemo.c
+ 1236  ./a.out
+ 1237  vi arraydemo.c
+ 1238  cc arraydemo.c
+ 1239  ./a.out
+ 1240  vi arraydemo.c
+ 1241  cc arraydemo.c
+ 1242  ./a.out
+ 1243  clear
+ 1244  vi pointerdemotest.c
+ 1245  vi SITest.c
+ 1246  cc SITest.c
+ 1247  ./a.out
+ 1248  vi SITest.c
+ 1249  mkdir modularisationdemo
+ 1250  cd modularisationdemo/
+ 1251  vi finance.h
+ 1252  vi finance.c
+ 1253  cc finance.c
+ 1254  clear
+ 1255  cd ..
+ 1256  ls
+ 1257  vi SITest.c 
+ 1258  ls
+ 1259  rm a.out
+ 1260  ls
+ 1261  cc SITest.c -o output
+ 1262  ls
+ 1263  ./output 
+ 1264  vi SITest.c 
+ 1265  ls
+ 1266  cd modularisationdemo/
+ 1267  ls
+ 1268  clear
+ 1269  ls
+ 1270  cc finance.c
+ 1271  cc -c finance.c
+ 1272  ls
+ 1273  vi financetest.c
+ 1274  cc -c financetest.c 
+ 1275  cc financetest.c 
+ 1276  cc financetest.c finance.o
+ 1277  ./a.out
+ 1278  exit
+ 1279  ls
+ 1280  cd DAC0826/
+ 1281  ls
+ 1282  clear
+ 1283  ls
+ 1284  cd Nilesh
+ 1285  ls
+ 1286  cd basics
+ 1287  ls
+ 1288  clear
+ 1289  vi SITest.c 
+ 1290  cp SITest.c SITest1.c
+ 1291  vi SITest1.c
+ 1292  cc SITest1.c
+ 1293  ./a.out
+ 1294  vi SITest1.c
+ 1295  ls
+ 1296  vi SITest1.c
+ 1297  clear
+ 1298  ls
+ 1299  vi pointerdemotest.c
+ 1300  cc pointerdemotest.c
+ 1301  ./a.out
+ 1302  vi pointerdemotest.c
+ 1303  cc pointerdemotest.c
+ 1304  ./a.out
+ 1305  vi pointerdemotest.c
+ 1306  vi pointerarraydemo.c
+ 1307  cc pointerarraydemo.c
+ 1308  clear
+ 1309  ./a.out
+ 1310  vi pointerarraydemo.c
+ 1311  cc pointerarraydemo.c
+ 1312  ./a.out
+ 1313  vi pointerarraydemo.c
+ 1314  cc pointerarraydemo.c
+ 1315  ./a.out
+ 1316  vi pointerarraydemo.c
+ 1317  cc pointerarraydemo.c
+ 1318  ./a.out
+ 1319  clear
+ 1320  vi pointerarraydemo.c
+ 1321  cc pointerarraydemo.c
+ 1322  vi pointerarraydemo.c
+ 1323  clear
+ 1324  cc pointerarraydemo.c
+ 1325  ./a.out
+ 1326  vi pointerarraydemo.c
+ 1327  cc pointerarraydemo.c
+ 1328  vi pointerarraydemo.c
+ 1329  clear
+ 1330  vi constantpointertest.c
+ 1331  cc constantpointertest.c
+ 1332  ./a.out
+ 1333  vi constantpointertest.c
+ 1334  cc constantpointertest.c
+ 1335  vi constantpointertest.c
+ 1336  cc constantpointertest.c
+ 1337  vi constantpointertest.c
+ 1338  cc constantpointertest.c
+ 1339  vi constantpointertest.c
+ 1340  vi swaptest.c
+ 1341  cc swaptest.c
+ 1342  clear
+ 1343  ./a.out
+ 1344  vi swaptest.c
+ 1345  cc swaptest.c
+ 1346  ./a.out
+ 1347  vi swaptest.c
+ 1348  vi structptrtest.c
+ 1349  cc structptrtest.c
+ 1350  ./a.out
+ 1351  vi structptrtest.c
+ 1352  cc structptrtest.c
+ 1353  ./a.out
+ 1354  vi structptrtest.c
+ 1355  cp structptrtest.c structptrtest1.c 
+ 1356  vi structptrtest2.c
+ 1357  vi structptrtest1.c
+ 1358  clear
+ 1359  cc structptrtest1.c
+ 1360  ./a.out
+ 1361  vi structptrtest1.c
+ 1362  clear
+ 1363  cc structptrtest1.c
+ 1364  ./a.out
+ 1365  vi structptrtest1.c
+ 1366  clear
+ 1367  cc structptrtest1.c
+ 1368  vi structptrtest1.c
+ 1369  cc structptrtest1.c
+ 1370  ./a.out
+ 1371  vi structptrtest1.c
+ 1372  clear
+ 1373  cc structptrtest1.c
+ 1374  ./a.out
+ 1375  clear
+ 1376  vi structptrtest1.c
+ 1377  cc structptrtest1.c
+ 1378  vi structptrtest1.c
+ 1379  clear
+ 1380  ls
+ 1381  vi SITest1.c
+ 1382  vi dynamicmemtest.c
+ 1383  cc dynamicmemtest.c
+ 1384  vi dynamicmemtest.c
+ 1385  cc dynamicmemtest.c
+ 1386  clear
+ 1387  ls
+ 1388  vi dynamicmemtest.c 
+ 1389  cc dynamicmemtest.c 
+ 1390  vi dynamicmemtest.c 
+ 1391  cc dynamicmemtest.c 
+ 1392  clear
+ 1393  cc dynamicmemtest.c 
+ 1394  clear
+ 1395  vi dynamicmemtest.c 
+ 1396  cc dynamicmemtest.c 
+ 1397  ./a.out
+ 1398  vi dynamicmemtest.c 
+ 1399  exit
+ 1400  exit
+ 1401  ls
+ 1402  clear
+ 1403  ls
+ 1404  cd Niles
+ 1405  mkdir Nilesh
+ 1406  cd Nilesh
+ 1407  cp -r /mnt/d/dbptrtest/ .
+ 1408  ls
+ 1409  cd dbptrtest/
+ 1410  ls
+ 1411  vi doublepointertest.c 
+ 1412  cc doublepointertest.c 
+ 1413  clear
+ 1414  ./a.out
+ 1415  vi doublepointertest.c 
+ 1416  cc doublepointertest.c 
+ 1417  ./a.out
+ 1418  vi doublepointertest.c 
+ 1419  cc doublepointertest.c 
+ 1420  ./a.out
+ 1421  vi doublepointertest.c 
+ 1422  clear
+ 1423  ls
+ 1424  vi EMS.c
+ 1425  clear
+ 1426  exit
+ 1427  exit
+ 1428  ls
+ 1429  mv Course/ Backup/Course-Feb2026
+ 1430  ls
+ 1431  mkdir Course
+ 1432  code .
+ 1433  cd Course/
+ 1434  code .
+ 1435  cd ~/Test
+ 1436  ls
+ 1437  code hello.s
+ 1438  rm hello.s
+ 1439  code test.s
+ 1440  rm -r test
+ 1441  rm -r test.s
+ 1442  wget -qO- iitdac.met.edu/shared/native/asmrt-x64.tar.gz | x
+ 1443  wget -qO- iitdac.met.edu/shared/native/asmrt-x64.tar.gz | tar x
+ 1444  ls
+ 1445  vi hello.s
+ 1446  as -o hello.o hello.s
+ 1447  ld -o hello hello.o runtime.o 
+ 1448  ./hello 
+ 1449  history -c & exit
+ 1450  exit
+ 1451  ls
+ 1452  exit
+ 1453  ls
+ 1454  sudo apt update -y
+ 1455  sudo apt install -y ca-certificates
+ 1456  sudo install -d /usr/share/postgresql-common/pgdg
+ 1457  sudo apt install postgresql postgresql-contrib
+ 1458  sudo apt remove postgresql postgresql-contrib
+ 1459  sudo apt install -y postgresql-common ca-certificates
+ 1460  sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
+ 1461  sudo apt update
+ 1462  sudo apt install -y postgresql-18 postgresql-contrib-18
+ 1463  sudo systemctl status postgresql
+ 1464  psql --version
+ 1465  sudo -i -u postgres psql
+ 1466  exit
+ 1467  sudo -i -u postgres psql
+ 1468  psql -_
+ 1469  psql -U dac -d postgres
+ 1470  psql -U dac -d postgres -h localhost
+ 1471  psql -U dac -d test -h localhost
+ 1472  psql postgresql://dac:metiit@localhost/test
+ 1473  echo "localhost:5432:postgres:dac:metiit" >> ~/.pgpass
+ 1474  chmod 600 ~/.pgpass 
+ 1475  psql -U dac -d test -h localhost
+ 1476  psql -U dac -d postgres -h localhost
+ 1477  vi ~/.pgpass 
+ 1478  psql -U dac -d test -h localhost
+ 1479  psql -U dac -d test
+ 1480  vi .bashrc
+ 1481  exec bash
+ 1482  psql -U dac -d test
+ 1483  exit
+ 1484  ping 192.168.4.53
+ 1485  exit
+ 1486  usql oracle://dac:metiit@localhost/xepdb1
+ 1487  usql oracle://dac:metiit@iitdac.met.edu/xepdb1
+ 1488  exit
+ 1489  usql oracle://dac:metiit@iitdac.met.edu/xepdb1
+ 1490  wget -P /mnt/c/Users/efaculty1/AppData/Local/Microsoft/WindowsApps/ iitdac.met.edu/shared/data/usql.exe
+ 1491  usql.exe 
+ 1492  usql.exe oracle://dac:metiit@iitdac.met.edu/xepdb1
+ 1493  vi ~/.bashrc 
+ 1494  exec bash
+ 1495  exit
+ 1496  ls
+ 1497  exit
+ 1498  ls
+ 1499  exit
+ 1500  ls
+ 1501  cat main.py 
+ 1502  rm main.py 
+ 1503  cat old.bashrc 
+ 1504  ls
+ 1505  ls my-env/
+ 1506  history -d & exit
+ 1507  history -c & exit
+ 1508  exit
+ 1509  cd Test
+ 1510  godbolt-virtfunc.cpp
+ 1511  vi godbolt-virtfunc.cpp
+ 1512  exit
+ 1513  clear
+ 1514  ls
+ 1515  cd ..
+ 1516  ls
+ 1517  cd Nilesh/
+ 1518  cd ..
+ 1519  cd Backup/
+ 1520  ls
+ 1521  cd ..
+ 1522  ls
+ 1523  cd Course/
+ 1524  cd ..
+ 1525  cd Nilesh/
+ 1526  ls
+ 1527  cp -r ../Course/
+ 1528  cp -r ../Course/ .
+ 1529  ls
+ 1530  cd Course
+ 1531  pwd
+ 1532  cd Commands/
+ 1533  cd ..
+ 1534  ls
+ 1535  cd Foundations/
+ 1536  ls
+ 1537  cd Classes/
+ 1538  ls
+ 1539  vi banners1.h
+ 1540  vi classtest1.cpp
+ 1541  clear
+ 1542  pwd
+ 1543  ls
+ 1544  vi banner2.h
+ 1545  vi classtest1.cpp
+ 1546  vi classtest2.cpp
+ 1547  vi banners2.h 
+ 1548  ls
+ 1549  cd Nilesh/
+ 1550  ls
+ 1551  cd Course
+ 1552  ls
+ 1553  cd Foundations/
+ 1554  ls
+ 1555  cd Classes/
+ 1556  ls
+ 1557  vi banner1.h
+ 1558  vi banners1.h
+ 1559  exit
+ 1560  ll
+ 1561  code interval2.h operovldtest.cpp 
+ 1562  c++ -o program operovldtest.cpp 
+ 1563  ./program 
+ 1564  c++ -o program operovldtest.cpp 
+ 1565  ./program 
+ 1566  cd ..
+ 1567  mkdir Inheritance
+ 1568  cd Inheritance/
+ 1569  code boxes.h
+ 1570  code derivedclasstest.cpp
+ 1571  c++ -o program derivedclasstest.cpp 
+ 1572  ./program 
+ 1573  c++ -o program derivedclasstest.cpp 
+ 1574  ./program 
+ 1575  history > ~/Course/Commands/Foundations/cmd13-09-26morning.txt 
+ 1576  vi ~/Course/Commands/Foundations/cmd13-09-26morning.txt 
+ 1577  cp -r ~/Course/Commands/ /mnt/d/ACAug2026/CodingSamples/
+ 1578  cp -r ~/Course/Foundations/ /mnt/d/ACAug2026/CodingSamples/
+ 1579  exit
+ 1580  cat Course/Foundations/Inheritance/derivedclasstest.cpp 
+ 1581  exit
+ 1582  exit
+ 1583  exit
+ 1584  c++ --version
+ 1585  exit
+ 1586  ls
+ 1587  cd Nilesh/
+ 1588  ls
+ 1589  cd Course/
+ 1590  ls
+ 1591  cd Foundations/
+ 1592  ls
+ 1593  cd Classes/
+ 1594  ls
+ 1595  vi classtest1.cpp
+ 1596  vi objreftest.cpp 
+ 1597  pwd
+ 1598  clear
+ 1599  c++ objreftest.cpp
+ 1600  ./a.out
+ 1601  vi objreftest.cpp 
+ 1602  c++ objreftest.cpp
+ 1603  ./aout
+ 1604  ./a.out
+ 1605  clear
+ 1606  vi objreftest.cpp 
+ 1607  c++ objreftest.cpp
+ 1608  ./a.out
+ 1609  vi objreftest.cpp 
+ 1610  exit
+ 1611  ls
+ 1612  cd Nilesh/Course/Foundations/Classes/
+ 1613  ls
+ 1614  vi classtest2.cpp
+ 1615  pwd
+ 1616  c++ --version
+ 1617  exit
+ 1618  pwd
+ 1619  exit
+ 1620  cd Test
+ 1621  ls
+ 1622  cp ~/Course/Foundations/Templates/genalgotest.cpp .
+ 1623  code genalgotest.cpp 
+ 1624  c++ genalgotest.cpp 
+ 1625  ./a.out 
+ 1626  c++ genalgotest.cpp 
+ 1627  ./a.out 
+ 1628  c++ genalgotest.cpp 
+ 1629  ./a.out 
+ 1630  code lambdaexprtest.cpp
+ 1631  c++ lambdaexprtest.cpp 
+ 1632  c++ -std=c++20 lambdaexprtest.cpp 
+ 1633  ./a.out 
+ 1634  c++ -std=c++20 lambdaexprtest.cpp 
+ 1635  ./a.out 
+ 1636  c++ -std=c++20 lambdaexprtest.cpp 
+ 1637  ./a.out 
+ 1638  c++ -std=c++20 lambdaexprtest.cpp 
+ 1639  ./a.out 
+ 1640  history -c & exit
+ 1641  cd Test
+ 1642  cp ~/Course/Foundations/Templates/genalgotest.cpp .
+ 1643  code genalgotest.cpp 
+ 1644  c++ genalgotest.cpp
+ 1645  ./a.out 
+ 1646  c++ genalgotest.cpp
+ 1647  ./a.out 
+ 1648  c++ genalgotest.cpp
+ 1649  ./a.out 
+ 1650  c++ genalgotest.cpp
+ 1651  ./a.out 
+ 1652  c++ genalgotest.cpp
+ 1653  ./a.out 
+ 1654  c++ genalgotest.cpp
+ 1655  ./a.out 
+ 1656  c++ genalgotest.cpp
+ 1657  ./a.out 
+ 1658  c++ genalgotest.cpp
+ 1659  ./a.out 
+ 1660  history -c & exit
+ 1661  cat Course/Foundations/Templates/genalgotest.cpp 
+ 1662  exit
+ 1663  cd Course/Foundations/Templates/
+ 1664  vi classtmplttest1.cpp
+ 1665  history -c & exit
+ 1666  ls
+ 1667  pwd
+ 1668  clear
+ 1669  ls
+ 1670  cd Nilesh/
+ 1671  ls
+ 1672  cd Course/Foundations/Inheritance/
+ 1673  ls
+ 1674  vi boxes_0.h 
+ 1675  mkdir PrimitiveTypeTest
+ 1676  cd PrimitiveTypeTest/
+ 1677  mkdir demo
+ 1678  cd demo/
+ 1679  code .
+ 1680  javac Program.java 
+ 1681  ls
+ 1682  java Program 
+ 1683  javac Investment.java 
+ 1684  javac Program.java 
+ 1685  java Program 
+ 1686  javac Program.java 
+ 1687  java Program 25000 6
+ 1688  java Program 25000 9
+ 1689  java Program 200000 5
+ 1690  java Program  5OOOO 10
+ 1691  cd ..
+ 1692  cp -r PrimitiveTypeTest/ UserDefTypeTest
+ 1693  cd UserDefTypeTest/
+ 1694  cd demo/
+ 1695  cd ..
+ 1696  mv demo/ demo1
+ 1697  cd demo1/
+ 1698  ls
+ 1699  rm *.class
+ 1700  ls
+ 1701  code .
+ 1702  ls
+ 1703  javac -d classes Program.java 
+ 1704  ls
+ 1705  ls classes/
+ 1706  java Program 25000 6
+ 1707  java -cp classes Program 25000 6
+ 1708  vi run
+ 1709  bash run 25000 6
+ 1710  chmod +x run 
+ 1711  ./run 25000 6
+ 1712  ./run 200000 5
+ 1713  ls
+ 1714  cd Nilesh/Course/Foundations/
+ 1715  ls
+ 1716  cd Inheritance/
+ 1717  ls
+ 1718  vi boxes.h
+ 1719  cd ..
+ 1720  ls
+ 1721  cd Classes/
+ 1722  ls
+ 1723  vi interval
+ 1724  vi interval1.h
+ 1725  clear
+ 1726  exit
+ 1727  exit
+ 1728  cd Nilesh/
+ 1729  cd Course/Foundations/Inheritance/
+ 1730  ls
+ 1731  vi rttitest2.cpp
+ 1732  cd ..
+ 1733  ls
+ 1734  pwd
+ 1735  cd ..
+ 1736  ls
+ 1737  cd ..
+ 1738  ls
+ 1739  cd Course/
+ 1740  ls
+ 1741  cd Java
+ 1742  ls
+ 1743  cd Fundamentals/
+ 1744  ls
+ 1745  cd Basic
+ 1746  cd Basics
+ 1747  clear
+ 1748  ls
+ 1749  cd UserDefTypeTest/
+ 1750  ls
+ 1751  cd demo1
+ 1752  ls'
+ 1753  ls
+ 1754  vi run
+ 1755  clear
+ 1756  cd ..
+ 1757  ls
+ 1758  cd ..
+ 1759  ls
+ 1760  cd Inheritance/
+ 1761  ls
+ 1762  cd SubclassTest/
+ 1763  ls
+ 1764  cd demo1
+ 1765  clear
+ 1766  ls
+ 1767  cd payroll/
+ 1768  ls
+ 1769  vi Employee.java 
+ 1770  vi SalesPerson.java 
+ 1771  ls
+ 1772  cd ..
+ 1773  ls
+ 1774  vi run
+ 1775  ls classes
+ 1776  ls classes/payroll
+ 1777  vi run
+ 1778  ls
+ 1779  cd Nilesh/Course/Foundations/Inheritance/
+ 1780  ls
+ 1781  vi boards2.h
+ 1782  cd Nilesh/Course/Foundations/Inheritance/
+ 1783  ls
+ 1784  vi rttitest1.cpp
+ 1785  vi rttitest2.cpp
+ 1786  vi adttest.cpp 
+ 1787  ls
+ 1788  cd Nilesh/
+ 1789  ls
+ 1790  cd Course
+ 1791  ls
+ 1792  cd Foundations/
+ 1793  ls
+ 1794  cd Inheritance/
+ 1795  ls
+ 1796  clear
+ 1797  ls
+ 1798  vi boards1.cpp
+ 1799  javac Program.java 
+ 1800  java Program 
+ 1801  javac Program.java
+ 1802  java Program 
+ 1803  ls Course/Java/Fundamentals/
+ 1804  ls Course/Java
+ 1805  ls Course/Java/Fundamentals/
+ 1806  ls Course/Java/Fundamentals/Basics/
+ 1807  exit
+ 1808  ls
+ 1809  cd Nilesh
+ 1810  ls
+ 1811  cd Course
+ 1812  ls
+ 1813  cd Java
+ 1814  ls
+ 1815  cd Fundamentals/
+ 1816  ls
+ 1817  cd Basic/
+ 1818  cd Basics
+ 1819  ls
+ 1820  cd ..
+ 1821  ls
+ 1822  cd Java
+ 1823  ls
+ 1824  cd Fundamentals/
+ 1825  ls
+ 1826  cd Basics
+ 1827  ls
+ 1828  cd ..
+ 1829  cd Course
+ 1830  ls
+ 1831  cd Java
+ 1832  ls
+ 1833  cd Fundamentals/
+ 1834  ls
+ 1835  cd Inheritance/
+ 1836  ls
+ 1837  cd SubclassTest/
+ 1838  ls
+ 1839  cd demo1
+ 1840  ls
+ 1841  cd ..
+ 1842  ls
+ 1843  cd InterfaceTest/
+ 1844  ls
+ 1845  cd ..
+ 1846  ls
+ 1847  cd ..
+ 1848  cd ~/Nilesh/
+ 1849  pwd
+ 1850  ls
+ 1851  cd Course
+ 1852  ls
+ 1853  cd Java
+ 1854  ls
+ 1855  cd Fundamentals/Basics/
+ 1856  ls
+ 1857  cd ..
+ 1858  ls
+ 1859  cd Java/
+ 1860  ls
+ 1861  cd Fundamentals/Basics/
+ 1862  ls
+ 1863  cd ..
+ 1864  cp -r /mnt/d/ACAug2026/CodingSamples/Commands/ .
+ 1865  cp -r /mnt/d/ACAug2026/CodingSamples/Java/ .
+ 1866  ls
+ 1867  cd Java
+ 1868  ls
+ 1869  cd Fundamentals/Basics/
+ 1870  ls
+ 1871  cd ...
+ 1872  clear
+ 1873  cp -r /mnt/d/ACAug2026/CodingSamples/Java/Fundamentals/Basics/ .
+ 1874  ls
+ 1875  cd Inheritance/
+ 1876  ls
+ 1877  cd HospitalApp/
+ 1878  code .
+ 1879  ls
+ 1880  javac -d classes *.java
+ 1881  vi Patient.java 
+ 1882  clear
+ 1883  ls
+ 1884  javac Patient.java
+ 1885  ls
+ 1886  rm -r classes
+ 1887  rm Patient.class
+ 1888  ls
+ 1889  rm Program.class
+ 1890  ls
+ 1891  vi Program.java 
+ 1892  javac -d . Patient.java
+ 1893  ls
+ 1894  javac Program.java 
+ 1895  ls
+ 1896  rm -r Hospital/
+ 1897  clear
+ 1898  javac -d classes Patient.java
+ 1899  ls
+ 1900  ls classes/Hospital/
+ 1901  clear
+ 1902  java Program
+ 1903  java -cp classes Program
+ 1904  java -cp classes:. Program
+ 1905  vi Program.java 
+ 1906  clear\
+ 1907  clear
+ 1908  java -cp classes:. Program
+ 1909  javac Program.java
+ 1910  javac -cp classes Program.java
+ 1911  clear
+ 1912  java -cp classes:. Program
+ 1913  cd ..
+ 1914  ls
+ 1915  cd ~
+ 1916  ls
+ 1917  cd Course/
+ 1918  ls
+ 1919  pwd
+ 1920  cd ..
+ 1921  cd Nilesh/
+ 1922  ls
+ 1923  cd Java/
+ 1924  ls
+ 1925  cd Fundamentals/
+ 1926  ls
+ 1927  cd Inheritance/
+ 1928  ls
+ 1929  cd HospitalApp/
+ 1930  ls
+ 1931  clear
+ 1932  ls
+ 1933  rm -r classes
+ 1934  ls
+ 1935  rm Program.
+ 1936  rm Program.class
+ 1937  ls
+ 1938  javac -d classes Patient
+ 1939  javac -d classes Patient.java
+ 1940  ls classes/
+ 1941  javac -cp classes Program.java
+ 1942  ls
+ 1943  java -cp classes:. Program
+ 1944  exit
+ 1945  ls
+ 1946  cd Nilesh
+ 1947  ls
+ 1948  cd Java
+ 1949  ls
+ 1950  cd Fundamentals/Inheritance/
+ 1951  ls
+ 1952  cp -r HospitalApp/ /mnt/d/ACAug2026/CodingSamples/
+ 1953  exit
+ 1954  cd Course/Java/Fundamentals/Generic/TypeParameterTest/demo1/
+ 1955  javap -p -c classes/Program.class 
+ 1956  history -c & exit
+ 1957  pwd
+ 1958  cd TypeParameterTest/demo1/
+ 1959  code .
+ 1960  cd ..
+ 1961  mkdir demo2
+ 1962  cd demo2/
+ 1963  cp ../demo1/Interval.java 
+ 1964  cp ../demo1/Interval.java .
+ 1965  cp ../demo1/run .
+ 1966  code .
+ 1967  javac -d classes SimpleStack.java 
+ 1968  ls classes/
+ 1969  ./run 
+ 1970  rm -r .m2/repository/course/
+ 1971  exit
+ 1972  exit
+ 1973  clear
+ 1974  mkdir Concurrency
+ 1975  cd Concurrency/
+ 1976  mkdir ThreadTest
+ 1977  cd ThreadTest/
+ 1978  mkdir demo1
+ 1979  cd demo1/
+ 1980  code .
+ 1981  cp ../../../Inheritance/SubclassTest/demo1/run .
+ 1982  cat run
+ 1983  ./run 
+ 1984  ./run 3
+ 1985  ./run
+ 1986  ./run 3
+ 1987  ./run
+ 1988  ./run 6
+ 1989  ./run
+ 1990  ./run 6
+ 1991  ./run 8
+ 1992  cd Course/Java/Fundamentals/Concurrency/ThreadTest/
+ 1993  ls
+ 1994  mkdir demo2
+ 1995  cd demo2/
+ 1996  code .
+ 1997  cp ../demo1/run 
+ 1998  cp ../demo1/run .
+ 1999  ./run 
+ 2000  ls
+ 2001  cd ..
+ 2002  ls
+ 2003  cd ..
+ 2004  ls
+ 2005  cd ..
+ 2006  ls
+ 2007  cd Commands
+ 2008  ls
+ 2009  cd Java
+ 2010  ls
+ 2011  cd Fundamentals
+ 2012  ls
+ 2013  history >cmd28-09-26morning.txt 
+ 2014  cd ..
+ 2015  ls
+ 2016  cd -r Java/ /mnt/d/ACAug2026/CodingSamples/
+ 2017  cp -r Java/ /mnt/d/ACAug2026/CodingSamples/
+ 2018  cp -r Commands /mnt/d/ACAug2026/CodingSamples/
+ 2019  clear
+ 2020  ls
+ 2021  cd ..
+ 2022  ls
+ 2023  cd Nilesh/
+ 2024  ls
+ 2025  cp -r ../Course/Commands/ .
+ 2026  cp -r ../Course/Java/ .
+ 2027  ls
+ 2028  clear
+ 2029  ls
+ 2030  mkdir Assignment2App
+ 2031  cd Assignment2App/
+ 2032  ls
+ 2033  clear
+ 2034  pwd
+ 2035  mkdir HospitalApp
+ 2036  mkdir -p src/main/java/app
+ 2037  ls
+ 2038  rm -r src
+ 2039  cd HospitalApp/
+ 2040  ls
+ 2041  mkdir -p src/main/java/app
+ 2042  ls
+ 2043  pwd
+ 2044  ls ../../../
+ 2045  clear
+ 2046  cp ../../../Course/Java/Fundamentals/Reflection/IntrospectionTest/bankfin/pom.xml . 
+ 2047  ls
+ 2048  code .
+ 2049  mvn -q compile
+ 2050  java -cp target/classes/ app.Program 
+ 2051  ls
+ 2052  cd ..
+ 2053  ls
+ 2054  clear
+ 2055  mvn compile
+ 2056  ls
+ 2057  cd HospitalApp/
+ 2058  clear
+ 2059  mvn -q compile
+ 2060  ls
+ 2061  java -cp target/classes/ app.Program 
+ 2062  mvn -q compile
+ 2063  java -cp target/classes/ app.Program 
+ 2064  clear
+ 2065  mvn -q compile
+ 2066  java -cp target/classes/ app.Program 
+ 2067  cd ..
+ 2068  cp HospitalApp/ HospitalApp1
+ 2069  cp -r HospitalApp/ HospitalApp1
+ 2070  cd HospitalApp1
+ 2071  ls
+ 2072  mvn -q clean
+ 2073  ls
+ 2074  ls src/main/java
+ 2075  cd ..
+ 2076  mkdir HospitalDemoApp
+ 2077  cd HospitalDemoApp/
+ 2078  clear
+ 2079  mkdir src/main/java/app
+ 2080  mkdir -p src/main/java/app
+ 2081  pwd
+ 2082  ls ../../
+ 2083  ls ../../..
+ 2084  cp ../../../Course/Java/Fundamentals/Reflection/IntrospectionTest/demo2/pom.xml 
+ 2085  cp ../../../Course/Java/Fundamentals/Reflection/IntrospectionTest/demo2/pom.xml .
+ 2086  clear
+ 2087  ls
+ 2088  cd ..
+ 2089  ls
+ 2090  cd HospitalDemoApp/
+ 2091  ls
+ 2092  cp ../HospitalApp/src/main/java/app/Program.java src/main/java/app
+ 2093  cd ..
+ 2094  ls
+ 2095  code .
+ 2096  clear
+ 2097  cd HospitalApp1
+ 2098  ls
+ 2099  mvn -q clean
+ 2100  ls
+ 2101  mvn -q compile
+ 2102  ls
+ 2103  mvn -q package
+ 2104  mvn package
+ 2105  clear
+ 2106  mvn install
+ 2107  cd ..
+ 2108  clear
+ 2109  ls
+ 2110  cd HospitalDemoApp/
+ 2111  ls
+ 2112  mvn -q clean
+ 2113  mvn compile dependency:copy-dependencies
+ 2114  clear
+ 2115  java -cp target/classes/:target/dependency/* app.Program
+ 2116  cd ..
+ 2117  ls
+ 2118  cd Nilesh
+ 2119  ls
+ 2120  cd Assignment2App/
+ 2121  history >AssignmentCommands.txt
