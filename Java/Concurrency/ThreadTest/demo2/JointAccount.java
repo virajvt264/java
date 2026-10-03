@@ -20,8 +20,19 @@ public class JointAccount {
         return success;
     }
 
+    public synchronized boolean withdrawAfterDeposit(long amount) throws InterruptedException {
+        //release ownership of the monitor of this object and wait 
+        //for another thread to notify this monitor and then reaquire
+        //the ownership
+        this.wait();
+        return withdraw(amount);
+    }
+
     public synchronized void deposit(long amount) {
         balance = work(balance, amount, 1);
+        //notify monitor of this object so that any thread waiting
+        //on this monitor can resume
+        this.notify();
     }
 
     private static long work(long bal, long amt, int sgn) {

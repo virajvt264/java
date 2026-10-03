@@ -1,2 +1,0 @@
-Class-Path: lib/met-Geometry-1.0.0.jar
-Main-Class: app.Program
